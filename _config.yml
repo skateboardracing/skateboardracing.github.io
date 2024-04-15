@@ -9,6 +9,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: minimal
 plugins:
 - jekyll-remote-theme 
